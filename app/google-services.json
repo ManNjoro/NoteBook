@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304982991838",
+    "project_id": "notebook-336e8",
+    "storage_bucket": "notebook-336e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304982991838:android:800b1aadd109f2f5b1f34f",
+        "android_client_info": {
+          "package_name": "com.eli.notebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB130GSO-5CmVmzHdjDs9pAK95fT7-zrYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
